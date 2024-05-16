@@ -21,4 +21,4 @@ It'll ask you if you want to initialize conda, answer yes
 You should now see (base) in your command line prompt 
 (ex. (base) scsj@scsj-laptop %)
 
-_Now you can work with Jupyter Notebook as directed in create_activate_jupyter_notebook.sh_
+_Now you can work with Jupyter Notebook as directed in [create_activate_jupyter_notebook.sh](https://github.com/southerncoalition/general/blob/main/create_activate_jupyter_notebook.sh)_
