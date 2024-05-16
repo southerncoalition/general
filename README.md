@@ -1,4 +1,4 @@
-These are the command lind commands to install conda, which is a virtual environment management tool you can use to work with Jupyter Notebooks
+These are the command line commands to install conda, which is a virtual environment management tool you can use to work with Jupyter Notebooks
 (and many other things, but in SCSJ contexts Jupyter Notebooks will probably be the main thing you need it for.
 
 ### 1. Download conda installer
