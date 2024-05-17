@@ -3,7 +3,7 @@ These are the command line commands to install conda, which is a virtual environ
 
 ### 1. Download conda installer
 Go to https://docs.conda.io/en/latest/miniconda.html download the "bash" installer for your computer (ex. Macbook with M2 chip -> "Miniconda3 macOS Apple M1 64-bit bash")
-If it gets downloaded to your Downloads folder or somewhere else, move it to your primary user folder (ex. User/scsj/)
+If it gets downloaded to your Downloads folder or somewhere else, move it to your primary user folder (ex. /User/scsj/)
 
 ### 2. Make sure your default shell is bash
 ```
