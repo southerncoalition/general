@@ -13,7 +13,8 @@ chsh -s /bin/bash
 ```
 bash Miniconda3-latest-MacOSX-arm64.sh
 ```
-Hit ENTER (and hold it down) to read through the Terms and ConditionsIt'll ask for an installation location, keep the default  
+Hit ENTER (and hold it down) to read through the Terms and Conditions  
+It'll ask for an installation location, keep the default  
 It'll ask you if you want to initialize conda, answer yes
 
 ### 4. Close and reopen terminal
