@@ -8,4 +8,4 @@ This is an ongoing list of digital resources that may be useful for research:
   
 **Voting Rights**
 1. [North Carolina State Board of Elections Database](https://dl.ncsbe.gov/)
-2. 
+2. [Center for Inclusive Democracy Early Voting Site Tool](https://nc.cidsitingtool.org/county.html?county=183)
