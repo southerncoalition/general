@@ -1,6 +1,11 @@
-These are the command line commands to install conda, which is a virtual environment management tool you can use to work with Jupyter Notebooks
-(and many other things, but in SCSJ contexts Jupyter Notebooks will probably be the main thing you need it for.
+At SCSJ, we use a variety of tools to work with data, including Python, R, Tableau, Excel, and QGIS. Python seems to be the best tool for developing projects that can be replicated and built upon, both internally and by others. Throughout our GitHub, we have shared many of the Python scripts we've written to help access, organize, analyz, and visualize data. Most of those scripts we have published as [Jupyter Notebooks](https://jupyter.org/), which make utilizing the code easier.  
 
+  
+Before you start using Jupyter Notebook, you will need to install a virtual environment management system / package manager, which will help you easily install and manage software packages and create isolated environments on your computer for different coding projects.  
+
+  
+We recommend using [conda](https://en.wikipedia.org/wiki/Conda_(package_manager)). Below are the steps to install conda on your computer via the command line.  
+  
 ### 1. Download conda installer
 Go to https://docs.conda.io/en/latest/miniconda.html download the "bash" installer for your computer (ex. Macbook with M2 chip -> "Miniconda3 macOS Apple M1 64-bit bash")  
 If it gets downloaded to your Downloads folder or somewhere else, move it to your primary user folder (ex. /User/scsj/)
