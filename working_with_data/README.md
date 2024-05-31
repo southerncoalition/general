@@ -31,7 +31,7 @@ You should now see (base) in your command line prompt
 
 _Now you can work with Jupyter Notebook as directed in [create_activate_jupyter_notebook.sh](https://github.com/southerncoalition/general/blob/main/create_activate_jupyter_notebook.sh)_
 
-##Python 'venv'
+## Python 'venv'
   Install the Python virtual environment module by running this from your terminal:
     ```
     pip install virtualenv
