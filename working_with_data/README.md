@@ -33,8 +33,8 @@ _Now you can work with Jupyter Notebook as directed in [create_activate_jupyter_
 
 ## Python 'venv'
   Install the Python virtual environment module by running this from your terminal:
-    ```
-    pip install virtualenv
-    ```
+  ```
+  pip install virtualenv
+  ```
   
   
