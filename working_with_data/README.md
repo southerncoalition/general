@@ -7,7 +7,7 @@ Before you start using Jupyter Notebook, you will need to install both Python an
 There are two virtual environment management system / package managers we recommend using. The first, [Conda](https://en.wikipedia.org/wiki/Conda_(package_manager)), is generally considered the best option. However, we have found that using Python's built in [venv](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/) module to be a bit easier and sufficient for the kinds of work we do. Below are the steps for installing both via your command line.
 
   
-##Conda
+## Conda
   
 ### 1. Download conda installer
 Go to https://docs.conda.io/en/latest/miniconda.html download the "bash" installer for your computer (ex. Macbook with M2 chip -> "Miniconda3 macOS Apple M1 64-bit bash")  
