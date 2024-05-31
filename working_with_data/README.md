@@ -29,12 +29,11 @@ It'll ask you if you want to initialize conda, answer yes
 You should now see (base) in your command line prompt   
 (ex. (base) scsj@scsj-laptop %)
 
-_Now you can work with Jupyter Notebook as directed in [create_activate_jupyter_notebook_with_conda.sh](https://github.com/southerncoalition/general/blob/main/working_with_data/create_activate_jupyter_notebook_with_conda.sh)
+_Now you can work with Jupyter Notebook as directed in [create_activate_jupyter_notebook_with_conda.sh](https://github.com/southerncoalition/general/blob/main/working_with_data/create_activate_jupyter_notebook_with_conda.sh)_
 
 ## Python 'venv'
   Install the Python virtual environment module by running this from your terminal:
   ```
   pip install virtualenv
   ```
-  
-  
+_Now you can work with Jupyter Notebook as directed in [create_activate_jupyter_notebook_with_venv.sh](https://github.com/southerncoalition/general/blob/main/working_with_data/create_activate_jupyter_notebook_with_venv.sh)_
